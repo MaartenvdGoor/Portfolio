@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\ASP_Portfolio\\ASP_Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\Portfolio\\ASP_Portfolio\\ASP_Portfolio.csproj",
       "projectName": "ASP_Portfolio",
-      "projectPath": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\ASP_Portfolio\\ASP_Portfolio.csproj",
+      "projectPath": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\Portfolio\\ASP_Portfolio\\ASP_Portfolio.csproj",
       "packagesPath": "C:\\Users\\maart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\ASP_Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\maart\\Documents\\Programming Projects\\Personal\\ASP_Portfolio\\ASP_Portfolio\\Portfolio\\ASP_Portfolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
