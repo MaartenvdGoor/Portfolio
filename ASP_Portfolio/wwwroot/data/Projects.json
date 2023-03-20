@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": "My Portfolio website build with ASP.NET, Build to make updating my portfolio easier and quicker.",
+    "Info_Image": [
+      [
+        "This was my first project in ASP.NET, After doing some small tutorial projects following along with a youtube video series I started to work on this website.I learned how to read data from a JSON file and pass that data through a controller to a model. Then when loading the page gets all its data from said model.",
+        "https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_400x400.png"
+      ]
+    ],
+    "main_Image": "https://cdn.discordapp.com/attachments/1069285562097348638/1069286585721421895/image.png",
+    "technology_Used": [ "ASP.NET", "C#", "JSON", "HTML", "CSS", "Bootstrap" ],
+    "tech_Image": "https://cdn.discordapp.com/attachments/1069285562097348638/1087358717684625488/Bitmap-MEDIUM_ASP.png",
+    "git_Link": "Google.com"
+  },
+  {
+    "name": "Noot",
+    "description": "A 2D game made in collaboration with other students of different disciplines",
+    "Info_Image": [
+      [
+        "Noot was my first experience working with digital artists in creating a game. I had to learn how to communicate the ideas i had in ways that they would understand and be able to use. Alot of new techniques were used that i had to learn for example tilemaps, importing and adapting sprites. It also was the first project that i worked with an agile workflow, using sprints and stand-ups to make sure we were steadily progressing to a finished product",
+        "https://cdn.discordapp.com/attachments/1087358143752835132/1087358160232263720/image.png"
+      ]
+    ],
+    "main_Image": "https://cdn.discordapp.com/attachments/1069288461254803456/1069288485242032278/Thumbnail_Noot_.jpg",
+    "technology_Used": [ "Unity", "C#", "Audacity", "Visual Studio" ],
+    "tech_Image": "https://cdn.discordapp.com/attachments/1082686230115909683/1087358499396276264/128594461-c4f08c9d-3518-4791-a1cc-d3bf13dfab31.png",
+    "git_Link": "Google.com"
+  },
+  {
+    "name": "Skelly Shooter",
+    "description": "A 2D action-platformer, Build in unity and utilizing the animation and sprite systems",
+    "Info_Image": [
+      [
+        "Skelly shooter was a project to challenge myself. i hadn't done a project before with actual art and only used primitive shapes to represent stuff. With using art also came the territory of animation. I had to learn how to create animations and use sprite animations.",
+        "https://cdn.discordapp.com/attachments/1069290156554735698/1087362280339034243/image.png"
+      ]
+    ],
+    "main_Image": "https://cdn.discordapp.com/attachments/1069290156554735698/1069290171280916480/image.png",
+    "technology_Used": [ "Unity", "C#", "Audacity", "Visual Studio" ],
+    "tech_Image": "https://cdn.discordapp.com/attachments/1082686230115909683/1082686268820946965/cs_solution.png",
+    "git_Link": "Google.com"
+  }
+]

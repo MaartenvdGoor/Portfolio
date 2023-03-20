@@ -1,0 +1,35 @@
+﻿@page
+@model ASP_Portfolio.Pages.ProjectsModel
+@{
+	ViewData["Title"] = "My Projects";
+}
+<div class="container ps-5 pe-5">
+	<div class="text-center">
+		<h1>My projects</h1>
+	</div>
+	@if (Model.Projects != null)
+	{
+		<div class="row row-cols-1 row-cols-md-3 g-4">
+			@foreach (var project in Model.Projects)
+			{
+				<div class="col">
+					<div class="card h-100 text-bg-secondary shadow-lg rounded bg-secondary">
+						<img src="@project.Main_Image" class="card-img-top" alt="...">
+						<div class="card-body bg-black">
+							<h5 class="card-title">@project.Name</h5>
+							<p class="card-text">@project.Description</p>
+						</div>
+						<a class="card-footer btn btn-secondary" asp-page="/Project" asp-route-title="@project.Name">
+							Click to learn More
+						</a>
+					</div>
+				</div>
+			}
+		</div>
+
+
+	}
+
+</div>
+
+
